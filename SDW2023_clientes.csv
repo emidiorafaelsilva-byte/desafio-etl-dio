@@ -1,0 +1,9 @@
+UserID,Nome,Agencia,Conta,Saldo,LimiteConta,CartaoFinal,LimiteCartao,PerfilInvestidor,ObjetivoFinanceiro,ProdutoInteresse,CanalPreferido
+1,Ana Souza,0001,12345-1,2500.75,800.0,1111,1500.0,Conservador,Reserva de emergencia,CDB,Email
+2,Bruno Lima,0001,23456-2,850.2,500.0,2222,1000.0,Moderado,Comprar um carro,Fundos de Investimento,SMS
+3,Carla Mendes,0002,34567-3,5200.0,1200.0,3333,3000.0,Arrojado,Aumentar patrimonio,Acoes,WhatsApp
+4,Diego Santos,0002,45678-4,1200.5,700.0,4444,1800.0,Conservador,Guardar dinheiro,Tesouro Direto,Email
+5,Eduarda Rocha,0003,56789-5,3100.9,900.0,5555,2200.0,Moderado,Viagem internacional,LCI,WhatsApp
+6,Felipe Alves,0003,67890-6,430.0,400.0,6666,900.0,Conservador,Organizar financas,Poupanca,SMS
+7,Gabriela Costa,0004,78901-7,7800.3,2000.0,7777,4500.0,Arrojado,Independencia financeira,Fundos Imobiliarios,Email
+8,Henrique Martins,0004,89012-8,1900.1,600.0,8888,1600.0,Moderado,Comprar apartamento,Tesouro IPCA,WhatsApp
